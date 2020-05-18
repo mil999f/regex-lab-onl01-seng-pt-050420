@@ -1,5 +1,5 @@
 def starts_with_a_vowel?(word)
-  "starts with a vowel".scan(/\w+ain/)
+  
 
 end
 
